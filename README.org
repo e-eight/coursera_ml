@@ -7,3 +7,5 @@ particular those by [[https://github.com/kaleko/CourseraML][kaleko]] and [[https
 translating the original Matlab/Octave questions to Python. Even though I
 largely wrote my own solutions, those were very helpful when I got stuck with
 some =numpy= issues.
+
+Feel free to use these as you want.
