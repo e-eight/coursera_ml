@@ -8,5 +8,5 @@ translating the original Matlab/Octave questions to Python. Even though I
 largely wrote my own solutions, those were very helpful when I got stuck with
 some =numpy= issues.
 
-Feel free to use these as you want, the questions are in [[../assignments][assignments]], and the
-data is in [[../data][data]].
+Feel free to use these as you want, the questions are in [[https://github.com/e-eight/coursera_ml/tree/master/assignments][assignments]], and the
+data is in [[https://github.com/e-eight/coursera_ml/tree/master/data][data]].
