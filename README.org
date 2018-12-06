@@ -1,0 +1,9 @@
+These are my solutions to Andrew Ng's machine learning course. It has been quite
+a learning experience. Coding them in Python has helped me to learn how to use
+=numpy= and =scipy= more efficiently. 
+
+Along the way I have found solutions by other learners very helpful, in
+particular those by [[https://github.com/kaleko/CourseraML][kaleko]] and [[https://github.com/deyachatterjee/ml-andrewng-python][deyachatterjee]]. Also thanks to [[https://github.com/dibgerge/ml-coursera-python-assignments][dibgerge]] for
+translating the original Matlab/Octave questions to Python. Even though I
+largely wrote my own solutions, those were very helpful when I got stuck with
+some =numpy= issues.
